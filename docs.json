@@ -11,11 +11,11 @@
   },
   "navigation": [
     {
+      "page": "index"
+    },
+    {
       "group": "Getting Started",
       "pages": [
-        {
-          "page": "index"
-        },
         {
           "page": "quickstart"
         }
@@ -26,6 +26,25 @@
       "pages": [
         {
           "page": "guides/writing-docs"
+        }
+      ]
+    },
+    {
+      "group": "Pageloop import test (2026-11-09)",
+      "pages": [
+        {
+          "page": "pageloop-import-test-2026-11-09/loose-notes"
+        },
+        {
+          "group": "Getting started",
+          "pages": [
+            {
+              "page": "pageloop-import-test-2026-11-09/getting-started/configure-settings"
+            },
+            {
+              "page": "pageloop-import-test-2026-11-09/getting-started/install-the-app"
+            }
+          ]
         }
       ]
     }
