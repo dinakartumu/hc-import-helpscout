@@ -39,9 +39,6 @@
           "group": "Getting started",
           "pages": [
             {
-              "page": "pageloop-import-test-2026-11-09/getting-started/install-the-app"
-            },
-            {
               "page": "pageloop-import-test-2026-11-09/getting-started/configure-settings"
             }
           ]
